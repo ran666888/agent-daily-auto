@@ -1,0 +1,12 @@
+# 不要提交敏感文件
+.env
+*.pyc
+__pycache__/
+*.swp
+*.swo
+*~
+.DS_Store
+node_modules/
+.python-version
+*.log
+/tmp/
